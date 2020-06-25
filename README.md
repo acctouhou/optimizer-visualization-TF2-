@@ -2,4 +2,4 @@
 
 ## Result
 
-![1](https://github.com/acctouhou/optimizer-visualization-TF2-/blob/master/output.mp4)  
+![1](https://github.com/acctouhou/optimizer-visualization-TF2-/blob/master/output.gif)  
